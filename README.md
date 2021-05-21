@@ -1,6 +1,6 @@
 <h1> Hello there, I'm RidhaAF! </h1> 
 
-<p><em> Studying Programming, Web Development & Mobile App Development.
+<p><em> Programming | Web Development | Mobile App Development
 <br> Currently learning Flutter👨🏻‍💻. </em></p>
 
 <h2>Familiar languages and frameworks</h2>
