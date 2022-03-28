@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhaaf&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="ridhaaf" /></p>
 
-<br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ridhaaf&theme=shades-of-purple&show_icons=true&locale=en" alt="ridhaaf" /></p>
