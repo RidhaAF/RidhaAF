@@ -1,5 +1,5 @@
 <h1 align="center">Hello there.. 👋🏻, I'm Ridha Ahmad Firdaus</h1>
-<h3 align="center">Mobile App Developer | Web Developer</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhaaf&label=Profile%20views&color=0e75b6&style=flat" alt="ridhaaf" /> </p>
 
