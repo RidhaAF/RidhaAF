@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhaaf&label=Profile%20views&color=0e75b6&style=flat" alt="ridhaaf" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently using **Flutter**
 - 📫 How to reach me **ridhaaf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
